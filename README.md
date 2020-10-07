@@ -8,7 +8,7 @@
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2015-blue)](https://img.shields.io/badge/Visual%20Studio-2015-blue)
 [![License](https://img.shields.io/github/license/a-kushnir/battle-tanks)](https://img.shields.io/github/license/a-kushnir/battle-tanks)
 
-Battle Tanks retains the gameplay of the classic 8-bit game and uses the capabilities of the modern Unreal Engine 4 game engine. The game combines the best of the original and 1990 modification. The player's task is to destroy all enemy tanks on the level, defend his base, and not lose all lives.
+Battle Tanks retains the gameplay of the classic 8-bit game and uses features of the modern Unreal Engine 4 game engine. The game combines the best of the original and 1990 modification. The player's task is to destroy all enemy tanks on the level, defend his base, and not lose all lives.
 
 [![Trailer](https://img.youtube.com/vi/8b1C_GCFtwg/0.jpg)](https://www.youtube.com/watch?v=8b1C_GCFtwg "Click to play on YouTube")
 
