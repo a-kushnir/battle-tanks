@@ -1,0 +1,1273 @@
+﻿# Game Italian translation.
+# Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2016-10-25 12:38\n"
+"PO-Revision-Date: 2016-10-25 12:38\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	00502A5E401377F100E122BDE650EA35
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.ButtonBack.Text
+#. Key:	5A751E514E4A5EED8DD92ABD04E9641D
+#. SourceLocation:	/Game/MainMenu/W_MainLevel.W_MainLevel_C:WidgetTree.ButtonBack.Text
+#. Key:	7875DE384179EC29B11BB8810215A8C3
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.ButtonBack.Text
+#. Key:	7E7CD0C04805A775D0184193B760AA17
+#. SourceLocation:	/Game/WaitingRoom/W_WaitingRoom.W_WaitingRoom_C:WidgetTree.ButtonBack.Text
+#. Key:	90D0DEA3458E89766A1E1387A979DE3E
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.ButtonBack.Text
+#. Key:	AD6916BA47F82E81FE7359A8FAD40EBE
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.ButtonBack.Text
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.ButtonBack.Text
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.ButtonBack.Text
+#: /Game/MainMenu/W_MainLevel.W_MainLevel_C:WidgetTree.ButtonBack.Text
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.ButtonBack.Text
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.ButtonBack.Text
+#: /Game/WaitingRoom/W_WaitingRoom.W_WaitingRoom_C:WidgetTree.ButtonBack.Text
+msgid "Back"
+msgstr ""
+
+#. Key:	00EB5B58484F471D2831E3AB41B74779
+#. SourceLocation:	/Game/LevelGame/W_GameOver.W_GameOver_C:WidgetTree.TextBlock_58.Text
+#: /Game/LevelGame/W_GameOver.W_GameOver_C:WidgetTree.TextBlock_58.Text
+msgid "Betrayer!"
+msgstr ""
+
+#. Key:	0108283E4297C650DDC48EAFA2C379BE
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.ButtonStart.Text
+#. Key:	5267340240D7C7760786E1A1FCB21613
+#. SourceLocation:	/Game/MainMenu/W_MainLevel.W_MainLevel_C:WidgetTree.ButtonStart.Text
+#. Key:	9145701C4D024625A09215B948A50B8F
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.ButtonPlay.Text
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.ButtonStart.Text
+#: /Game/MainMenu/W_MainLevel.W_MainLevel_C:WidgetTree.ButtonStart.Text
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.ButtonPlay.Text
+msgid "Start"
+msgstr ""
+
+#. Key:	028F15924851F87CCEFE019665F956C2
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus1.Text
+#. Key:	1F77F4954B2C702E05ED499133740B42
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus2.Text
+#. Key:	22B446A64E3313D4637C50B9D2506A1B
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus3.Text
+#. Key:	7343828444E17CAB193544809E6133DA
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus4.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus2.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonus4.Text
+msgid "Bonus!"
+msgstr ""
+
+#. Key:	0480026D4DF509C0CDB373BA00A8B39D
+#. SourceLocation:	/Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(3).DisplayNames
+#: /Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(3).DisplayNames
+msgid "WallCollision"
+msgstr ""
+
+#. Key:	077655E14D50E1C834E7AF8FB2F230E8
+#. SourceLocation:	/Game/Common/W_GamepadButton.W_GamepadButton_C:WidgetTree.TextButton.Text
+#: /Game/Common/W_GamepadButton.W_GamepadButton_C:WidgetTree.TextButton.Text
+msgid "A"
+msgstr ""
+
+#. Key:	07C4B1864FA58DC95C92678BC6DFBFD1
+#. SourceLocation:	/Game/LevelGame/W_AskToExit.W_AskToExit_C:WidgetTree.TextPressAgain.Text
+#: /Game/LevelGame/W_AskToExit.W_AskToExit_C:WidgetTree.TextPressAgain.Text
+msgid "Press\r\nAgain\r\nto Exit"
+msgstr ""
+
+#. Key:	07CDF878488C19A243BB70B469B0487D
+#. SourceLocation:	/Game/LevelEditor/A_Spawn.A_Spawn_C:TextRender_GEN_VARIABLE.Text
+#: /Game/LevelEditor/A_Spawn.A_Spawn_C:TextRender_GEN_VARIABLE.Text
+msgid "E"
+msgstr ""
+
+#. Key:	07D5B1454C447D4923E04498A3E63C09
+#. SourceLocation:	/Game/Common/W_PopupWindow.W_PopupWindow_C:WidgetTree.MenuButtonCancel.Text
+#. Key:	40BFB0BA4FBD0F850A4939BCB926806F
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.ButtonExit.Text
+#. Key:	4F8BAE184DF53900F29EA3BC1183ADDA
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.ButtonExit.Text
+#. Key:	65A674CE425607862960AEBCC95EA711
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.ButtonExit.Text
+#. Key:	668A82044D1E2BC29A117F82A3B7414F
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.ButtonExit.Text
+#. Key:	CFDBE15E4B092B93B49EC894BAFDBD57
+#. SourceLocation:	/Game/Common/W_PopupWindow.Default__W_PopupWindow_C.Cancel
+#. Key:	E9BB9E3F437F464307CCFFA1776B4E13
+#. SourceLocation:	/Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:WidgetTree.ButtonExit.Text
+#. Key:	F4E949B540AE3B2079DA46921CBF87A1
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#. Key:	FDD7A44F427ABCDCC352BC87E2C77467
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/Common/W_PopupWindow.Default__W_PopupWindow_C.Cancel
+#: /Game/Common/W_PopupWindow.W_PopupWindow_C:WidgetTree.MenuButtonCancel.Text
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.ButtonExit.Text
+#: /Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:WidgetTree.ButtonExit.Text
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.ButtonExit.Text
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.ButtonExit.Text
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.ButtonExit.Text
+msgid "Cancel"
+msgstr ""
+
+#. Key:	09FB5B84432D5137464F60884A59F94C
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+msgid "Overwrite"
+msgstr ""
+
+#. Key:	0AB1D10B411D338EF442A1AA00B539C0
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.TextEnemy.Text
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.TextEnemy.Text
+msgid "Enemy"
+msgstr ""
+
+#. Key:	0B1AAD524370204C5D602EBA6A81629D
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks13.Text
+#. Key:	0B36325147444AE5E82CFCAC4C2D9507
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks33.Text
+#. Key:	13A048BF43536EC73A2730BB7861AAF3
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks14.Text
+#. Key:	14B23B684F592B7234C96592EBBE7693
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal2.Text
+#. Key:	1AA515CE4C0971E9E84B59B8F59B7634
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks23.Text
+#. Key:	20CF627340B9F5BBC4697AB0216BB37F
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks24.Text
+#. Key:	33BF3DB4418D74BB9B1A1C8702BBAE88
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal3.Text
+#. Key:	3BDE03394F897FEBC69FEAB440BAE666
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal4.Text
+#. Key:	4AAE8BC54D4BEBCAF8D1C8B6000E5F9E
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks34.Text
+#. Key:	51C1A25F4E52C202E98F668BD88DC10E
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks41.Text
+#. Key:	53934A454F2546C5854BB99CB9838B4C
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks31.Text
+#. Key:	5E58D4AC43AE408DFC334490F734C113
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks21.Text
+#. Key:	61E91183426A5F04DAF1CC9C247983CA
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks42.Text
+#. Key:	621F868A42EA7755A9403A905C91856E
+#. SourceLocation:	/Game/LevelGame/W_NextLevel.W_NextLevel_C:WidgetTree.TextLevelNumber.Text
+#. Key:	6465BC5343911B26887372BCC7B3EDFF
+#. SourceLocation:	/Game/LevelGame/W_PlayerInfoHUD.W_PlayerInfoHUD_C:WidgetTree.PlayerLivesText.Text
+#. Key:	7322E9894168C2845A392B96B33D4845
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses2.Text
+#. Key:	890D11054BA09AEC7D8263AFE119D981
+#. SourceLocation:	/Game/LevelGame/W_PlayHUD.W_PlayHUD_C:WidgetTree.TextCounter.Text
+#. Key:	8926A9F44B7CFF3011C460B3CE6A23FD
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses3.Text
+#. Key:	8A2FD139401D658890B92E9E8E55FD89
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextStage.Text
+#. Key:	8FC6924C4790936BFAD0578BBFABAA55
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks12.Text
+#. Key:	9BB661714E2AEC7262380E8790AEA459
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks22.Text
+#. Key:	B5DE2EE74F62836CD14327BF7177A8E7
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses4.Text
+#. Key:	B8F7FA6047BCA574BBD40BB9089152F8
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks44.Text
+#. Key:	C6933EF14D5A6F67527ECB85BD7D9713
+#. SourceLocation:	/Game/LevelGame/W_PlayHUD.W_PlayHUD_C:WidgetTree.TextStage.Text
+#. Key:	C6F11B6E44DC2AA1CF97D7A352C190EC
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks43.Text
+#. Key:	D2B6A74A47566BA96435C0976B3B03D0
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks32.Text
+#. Key:	D864A7EF4A5C03E3F2A95D924F4286C3
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal1.Text
+#. Key:	ECB2E3C54E32C61C38DC9E8DF5BDFF0B
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses1.Text
+#. Key:	FE4C3116480E4B8378528F856EDF144E
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks11.Text
+#: /Game/LevelGame/W_NextLevel.W_NextLevel_C:WidgetTree.TextLevelNumber.Text
+#: /Game/LevelGame/W_PlayerInfoHUD.W_PlayerInfoHUD_C:WidgetTree.PlayerLivesText.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses2.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonuses4.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextStage.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks11.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks12.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks13.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks14.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks21.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks22.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks23.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks24.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks31.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks32.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks33.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks34.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks41.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks42.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks43.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTanks44.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal2.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal4.Text
+#: /Game/LevelGame/W_PlayHUD.W_PlayHUD_C:WidgetTree.TextCounter.Text
+#: /Game/LevelGame/W_PlayHUD.W_PlayHUD_C:WidgetTree.TextStage.Text
+msgid "99"
+msgstr ""
+
+#. Key:	0F6F305E49152A4DE66D23AC34395952
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextAction.Text
+#. Key:	808D352F45DB887FA41B7D99A69E98C9
+#. SourceLocation:	/Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextAction.Text
+#: /Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+msgid "to join"
+msgstr ""
+
+#. Key:	0FEF09E540E56FA38D858D8E957E85F9
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+#. Key:	3A8E42964DB4F2BB0EC793AC70583A4B
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:GetBooleanText [Script Bytecode]
+#. Key:	5849EEE94C64296FB616FB9E87C67561
+#. Key:	5E5A43414D79E66B9468A28A1BC16368
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+#. Key:	B2F60DA14383C232EB4A74B8864605F8
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:GetBooleanText [Script Bytecode]
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+msgid "No"
+msgstr ""
+
+#. Key:	104DE4654F5ED0E48F78F69DBC3B3E38
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#. Key:	93FAF7E24EA4F68140C5EC8D3654F8F3
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.ButtonEnterIp.Text
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.ButtonEnterIp.Text
+msgid "Enter IP"
+msgstr ""
+
+#. Key:	11B62AFF4A2CDB3C03861CA2DCBE1CC0
+#. SourceLocation:	/Game/LevelGame/W_LevelStartGame.W_LevelStartGame_C:ExecuteUbergraph_W_LevelStartGame [Script Bytecode]
+#. Key:	1EAC2288478B32E6BFF4BDB71ADC2327
+#. SourceLocation:	/Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:GetLevelText [Script Bytecode]
+#. Key:	D910A01D49D13246D07719B450994A00
+#. SourceLocation:	/Game/MainMenu/W_MainLevel.W_MainLevel_C:GetLevelText [Script Bytecode]
+#. Key:	DB7155E144E9B215835DA88A9598D6B0
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+#. Key:	E3CC1B80412AB2F141728D87AFFF8405
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:GetLevelText [Script Bytecode]
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:GetLevelText [Script Bytecode]
+#: /Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:GetLevelText [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+#: /Game/LevelGame/W_LevelStartGame.W_LevelStartGame_C:ExecuteUbergraph_W_LevelStartGame [Script Bytecode]
+#: /Game/MainMenu/W_MainLevel.W_MainLevel_C:GetLevelText [Script Bytecode]
+msgid "Stage {0}"
+msgstr ""
+
+#. Key:	16D69C0D45B4FE0CBFC55896D8C793B1
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+#. Key:	B40967DE42A8D378EC635ABD8FBBE905
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:GetPackageText [Script Bytecode]
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:GetPackageText [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+msgid "{0} ({1})"
+msgstr ""
+
+#. Key:	19B623A34EE0AD94C7961985052328E7
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:ExecuteUbergraph_W_NewLevel [Script Bytecode]
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:ExecuteUbergraph_W_NewLevel [Script Bytecode]
+msgid "Created"
+msgstr ""
+
+#. Key:	1A846B174E13F4469CE7239C25D0AC4B
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:ExecuteUbergraph_W_MainOnline [Script Bytecode]
+#. Key:	38D778DF4E29E2FFB648F3BD083712A5
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.SwitchMode.Text
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:ExecuteUbergraph_W_MainOnline [Script Bytecode]
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.SwitchMode.Text
+msgid "LAN"
+msgstr ""
+
+#. Key:	1AAC66374EE5816ECA3877890778200C
+#. SourceLocation:	/Game/Common/W_MenuButton.W_MenuButton_C:WidgetTree.MenuText.Text
+#: /Game/Common/W_MenuButton.W_MenuButton_C:WidgetTree.MenuText.Text
+msgid "Button"
+msgstr ""
+
+#. Key:	1ACBBF9E4A955F0080D7BA9574E9FDA0
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.TitleText.Text
+#. Key:	983F8BC147C8C8DBDE723DAC034DD3B3
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.ButtonJoin.Text
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.TitleText.Text
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.ButtonJoin.Text
+msgid "Join Game"
+msgstr ""
+
+#. Key:	1B3869854A4C37670CFF79A60F7C96F3
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#. Key:	2D45E6864BA4ABFB753BC5919552468B
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:ExecuteUbergraph_W_EditorMenu [Script Bytecode]
+#. Key:	6E3BE9F5436DE947F561A88CF7F914E9
+#. SourceLocation:	/Game/Common/W_PopupWindow.W_PopupWindow_C:WidgetTree.MenuButtonConfirm.Text
+#. Key:	764626674E0B5A572681228C2BDB0186
+#. SourceLocation:	/Game/Common/W_PopupWindow.Default__W_PopupWindow_C.Confirm
+#. Key:	A96A1BBC4EFF2350E9BE1995F6FE9FCD
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#. Key:	C1F805364D3D8612AC126497615F0C0A
+#: /Game/Common/W_PopupWindow.Default__W_PopupWindow_C.Confirm
+#: /Game/Common/W_PopupWindow.W_PopupWindow_C:WidgetTree.MenuButtonConfirm.Text
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:ExecuteUbergraph_W_EditorMenu [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+msgid "OK"
+msgstr ""
+
+#. Key:	1C1163FD497B30F40074FBB2B706B814
+#. SourceLocation:	/Game/LevelEditor/P_TankEditor.P_TankEditor_C:TextRender_GEN_VARIABLE.Text
+#: /Game/LevelEditor/P_TankEditor.P_TankEditor_C:TextRender_GEN_VARIABLE.Text
+msgid "99x"
+msgstr ""
+
+#. Key:	1D4A80AC4B235C8A0A8E54AF08F4A256
+#. SourceLocation:	/Game/Common/W_MenuSwitch.W_MenuSwitch_C:GetMenuText [Script Bytecode]
+#. Key:	4194EB134566D2697B7235BF98CA84D3
+#. SourceLocation:	/Game/LevelGame/W_LevelStartGame.W_LevelStartGame_C:WidgetTree.TextLevelNumber.Text
+#. Key:	8199906049F77E93B1C920A49BAFFBDF
+#. SourceLocation:	/Game/MainMenu/W_MainStartGame.W_MainStartGame_C:WidgetTree.TextLevelNumber.Text
+#. Key:	8228B98C4583ADFD2585818068394C81
+#. SourceLocation:	/Game/MainMenu/W_MainStartGame.W_MainStartGame_C:WidgetTree.TextLevelPackage.Text
+#. Key:	84A68E5C48ABFEB79A1EC8B53249EA79
+#. SourceLocation:	/Game/LevelGame/W_LevelStartGame.W_LevelStartGame_C:WidgetTree.TextLevelPackage.Text
+#. Key:	CD691B8F49E29BECC11D91859F109C7C
+#. SourceLocation:	/Game/Common/W_MenuSwitch.W_MenuSwitch_C:WidgetTree.MenuText.Text
+#. Key:	E00D6C774901385E87C870B892A060D7
+#. SourceLocation:	/Game/WaitingRoom/W_WaitingRoomStartGame.W_WaitingRoomStartGame_C:WidgetTree.TextDifficulty.Text
+#: /Game/Common/W_MenuSwitch.W_MenuSwitch_C:GetMenuText [Script Bytecode]
+#: /Game/Common/W_MenuSwitch.W_MenuSwitch_C:WidgetTree.MenuText.Text
+#: /Game/LevelGame/W_LevelStartGame.W_LevelStartGame_C:WidgetTree.TextLevelNumber.Text
+#: /Game/LevelGame/W_LevelStartGame.W_LevelStartGame_C:WidgetTree.TextLevelPackage.Text
+#: /Game/MainMenu/W_MainStartGame.W_MainStartGame_C:WidgetTree.TextLevelNumber.Text
+#: /Game/MainMenu/W_MainStartGame.W_MainStartGame_C:WidgetTree.TextLevelPackage.Text
+#: /Game/WaitingRoom/W_WaitingRoomStartGame.W_WaitingRoomStartGame_C:WidgetTree.TextDifficulty.Text
+msgid "< {0} >"
+msgstr ""
+
+#. Key:	1D8B9937453F966396E27BB591FAC469
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore4.Text
+#. Key:	3CD01D6844BD50AE23F1BD9D04DCE5C5
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore1.Text
+#. Key:	4AFB3A2141533BD6FFA457BC3DD4B986
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore2.Text
+#. Key:	89393A624CC707563D0D4E88F0B826FD
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore2.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextScore4.Text
+msgid "999,900"
+msgstr ""
+
+#. Key:	1F9DBEB140A2FBF937D67C8AE9E73D23
+#. SourceLocation:	/Game/LevelGame/Tanks/E_TankMovementType.E_TankMovementType.DisplayNames(1).DisplayNames
+#: /Game/LevelGame/Tanks/E_TankMovementType.E_TankMovementType.DisplayNames(1).DisplayNames
+msgid "Drifting"
+msgstr ""
+
+#. Key:	1FA53740494BBF501985ABA7DCC4082E
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.SwitchHeight.Text
+#. Key:	948C55A744032E05BC3700B4C53E11D3
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:PreviewLevel [Script Bytecode]
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:PreviewLevel [Script Bytecode]
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.SwitchHeight.Text
+msgid "Height: {0}"
+msgstr ""
+
+#. Key:	1FDD01894131C010B8916EBF23E464FA
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:GetTimeText [Script Bytecode]
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:GetTimeText [Script Bytecode]
+msgid "{0} sec"
+msgstr ""
+
+#. Key:	20AD5BE74A9188EC36A976A28A92C3C2
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#. Key:	8296543B443F92D20B4A7A897C933B69
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.ButtonCreate.Text
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.ButtonCreate.Text
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+msgid "Create"
+msgstr ""
+
+#. Key:	21C6D511404519D725934F9E39F3D51A
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:GetGameGoalText [Script Bytecode]
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:GetGameGoalText [Script Bytecode]
+msgid "{0} Tanks"
+msgstr ""
+
+#. Key:	25809D9240861BEAF75553B440B334C6
+#. SourceLocation:	/Game/Common/TheGameInstance.Default__TheGameInstance_C.Difficulty.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#. Key:	36DA0C454A03FDE935BEC19D9BD53D8D
+#. SourceLocation:	/Game/Common/Functions.Functions_C:LoadPlayedLevel [Script Bytecode]
+#. Key:	5AC6CD564CEC5F652DCA348461589E8E
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:ExecuteUbergraph_W_MainDifficulty [Script Bytecode]
+#. Key:	824627114FC5506D00B28388E21620D5
+#. SourceLocation:	/Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(3).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/Common/Functions.Functions_C:LoadPlayedLevel [Script Bytecode]
+#: /Game/Common/TheGameInstance.Default__TheGameInstance_C.Difficulty.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(3).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:ExecuteUbergraph_W_MainDifficulty [Script Bytecode]
+msgid "Custom"
+msgstr ""
+
+#. Key:	266E968F42D77BD2823A7D8C40C44B7D
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:GetBooleanText [Script Bytecode]
+#. Key:	4A18B9FB4357B3FAE956E7818898AEFC
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+#. Key:	938CF9FE4B544F641C58CA8563C066BC
+#. Key:	C6820459484116A25224559B271F584A
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#. Key:	EA5A8D0D4B1DD72EC570D0BA8725FDED
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:GetBooleanText [Script Bytecode]
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+msgid "Yes"
+msgstr ""
+
+#. Key:	26DBC3D64EC75E2D465EDEAD6B261CCC
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+msgid "Overwrite Level?"
+msgstr ""
+
+#. Key:	26E789124BEBE2FAC2A3DD88C1033282
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchLanguage.Label
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchLanguage.Label
+msgid "Language"
+msgstr ""
+
+#. Key:	270A28834740298B61FDDB99A62F4D7D
+#. SourceLocation:	/Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:GetMenuText [Script Bytecode]
+#. Key:	41766CF34B4ACBB3898BDDB97A973941
+#. SourceLocation:	/Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:WidgetTree.TextValue.Text
+#: /Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:GetMenuText [Script Bytecode]
+#: /Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:WidgetTree.TextValue.Text
+msgid "{0} >"
+msgstr ""
+
+#. Key:	28172A264BEE6E655AA49B83182BC77F
+#. SourceLocation:	/Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.ButtonExit.Text
+#. Key:	418C3CAB40F1E5B532A7B0B9616143C6
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonExit.Text
+#. Key:	BAFDA8DA4FC72A67212CD28038FCCBA3
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonExit.Text
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonExit.Text
+#: /Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.ButtonExit.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonExit.Text
+msgid "Exit"
+msgstr ""
+
+#. Key:	2BC490784D0BFAE70A017DA92B6458D8
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady4.CancelKey
+#. Key:	474DB48444BFF51D3A6F8298EFED2965
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.CancelKey
+#. Key:	8D7E96D84B8A619B9063AC801E908644
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady3.CancelKey
+#. Key:	C606D8D143CFCC44657868AC8B9FDF6A
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady2.CancelKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.CancelKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady2.CancelKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady3.CancelKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady4.CancelKey
+msgid "Esc"
+msgstr ""
+
+#. Key:	2F51570844DA70677DA2FAB485F77A50
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerFriendlyFire.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerFriendlyFire.Label
+msgid "Friendly Fire"
+msgstr ""
+
+#. Key:	31BA9D554F18790079C3F78E3DF49F05
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+msgid "Update"
+msgstr ""
+
+#. Key:	32363B1548DC996D68F69792E6BB675E
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts2.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts2.Text
+msgid "x200"
+msgstr ""
+
+#. Key:	34D8D943497E0439310F71902599B93E
+#. SourceLocation:	/Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(2).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(2).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+msgid "Hard"
+msgstr ""
+
+#. Key:	362E7929481249718043BFBDDDF74448
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.PlayerText.Text
+#. Key:	DF44EBEC41A1322850A13EB2AFBEB644
+#. SourceLocation:	/Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.PlayerText.Text
+#: /Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+msgid "Player {0}"
+msgstr ""
+
+#. Key:	3639F6C34881569613B68FB634165E9F
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.TextTitle.Text
+#. Key:	6048F96846D087545B5408BCBAB5CAFA
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonDelete.Text
+#. Key:	ED91563543CE1B22A9B07B983D380D89
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.ButtonDeleteLevel.Text
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.ButtonDeleteLevel.Text
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.TextTitle.Text
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonDelete.Text
+msgid "Delete"
+msgstr ""
+
+#. Key:	3943BED741536C7B77C3EEA6DADA5C84
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:WidgetTree.SwitchDifficulty.Label
+#. Key:	7A0CDE994617D220D8D6D4ACEF57C72C
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:WidgetTree.SwitchDifficulty.Label
+msgid "Difficulty"
+msgstr ""
+
+#. Key:	3B43A38E4707E61EC29FDDAA5ED5B4EE
+#. SourceLocation:	/Game/LevelGame/Tanks/E_TankMovementType.E_TankMovementType.DisplayNames(2).DisplayNames
+#: /Game/LevelGame/Tanks/E_TankMovementType.E_TankMovementType.DisplayNames(2).DisplayNames
+msgid "Stopped"
+msgstr ""
+
+#. Key:	3C6987774131D5F0373AA5A6E2960059
+#. SourceLocation:	/Game/Common/E_GameState.E_GameState.DisplayNames(2).DisplayNames
+#: /Game/Common/E_GameState.E_GameState.DisplayNames(2).DisplayNames
+msgid "Win"
+msgstr ""
+
+#. Key:	3E3637364C6D608B8EF6D1AEE2E960B2
+#. SourceLocation:	/Game/MainMenu/W_MainStartGame.W_MainStartGame_C:WidgetTree.TextLoading.Text
+#: /Game/MainMenu/W_MainStartGame.W_MainStartGame_C:WidgetTree.TextLoading.Text
+msgid "Loading..."
+msgstr ""
+
+#. Key:	3FADB25245BA91B0C5EB6788E4153600
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonOptions.Text
+#. Key:	707F37B14E3B18F636C695A68797A18E
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.TextBlock_21.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonOptions.Text
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.TextBlock_21.Text
+msgid "Options"
+msgstr ""
+
+#. Key:	409176934FF11770A0A8D88D1CF36E54
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+msgid "Windowed"
+msgstr ""
+
+#. Key:	41C493F14CBAFD654DD03FA5E090EE94
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:GetGameModeText [Script Bytecode]
+#. Key:	69482A20491DDAC9F92A6AB1A85A81A0
+#. SourceLocation:	/Game/LevelGame/E_GameMode.E_GameMode.DisplayNames(1).DisplayNames
+#: /Game/LevelGame/E_GameMode.E_GameMode.DisplayNames(1).DisplayNames
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:GetGameModeText [Script Bytecode]
+msgid "Survival"
+msgstr ""
+
+#. Key:	42ECF9C34BC44E5EF1D89389C969E142
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts2.Text
+#. Key:	9DA4675A4C2405D9E16A61A44DCC8AA1
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts2.Text
+msgid "1,000"
+msgstr ""
+
+#. Key:	44209C384FFBFBF7DFD88EAD02382B65
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusesPts.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusesPts.Text
+msgid "x500"
+msgstr ""
+
+#. Key:	445C183B4EE6AEAAFA28FCB205BECB6B
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+#. Key:	7E5B34294B0A27F534603684B4CB95B4
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonNew.Text
+#. Key:	E7E4113547815F73A03837879682DF6B
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.TextTitle.Text
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonNew.Text
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.TextTitle.Text
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:GetLevelText [Script Bytecode]
+msgid "New"
+msgstr ""
+
+#. Key:	45197B5C429C2E59240AC28E27693189
+#. SourceLocation:	/Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(0).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(0).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+msgid "Easy"
+msgstr ""
+
+#. Key:	48109F604AA4AE897608B199979A4764
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchResolution.Label
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchResolution.Label
+msgid "Resolution"
+msgstr ""
+
+#. Key:	49BF994646ECE058DFF6D9B1DA916F8E
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextTotal.Text
+msgid "Total"
+msgstr ""
+
+#. Key:	4F73661E4FACBA49DA048E98BF31CBFE
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.TextTitle.Text
+msgid "Players"
+msgstr ""
+
+#. Key:	5093E5DF45AAE42FB3CF4186EF308CD2
+#. SourceLocation:	/Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:WidgetTree.TextTitle.Text
+#. Key:	698D0F454406A755B82BF3B14785BE1E
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonLoad.Text
+#. Key:	72094D5B4D245D60713B0B860FF46663
+#. SourceLocation:	/Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:WidgetTree.ButtonLoad.Text
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonLoad.Text
+#: /Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:WidgetTree.ButtonLoad.Text
+#: /Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:WidgetTree.TextTitle.Text
+msgid "Load"
+msgstr ""
+
+#. Key:	51885A2446527AC3A49E8EBD0893F111
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextStageLabel.Text
+#. Key:	FC20744D4E6818BC3A72598B7F829D71
+#. SourceLocation:	/Game/LevelGame/W_NextLevel.W_NextLevel_C:WidgetTree.TextLevelLabel.Text
+#: /Game/LevelGame/W_NextLevel.W_NextLevel_C:WidgetTree.TextLevelLabel.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextStageLabel.Text
+msgid "Stage"
+msgstr ""
+
+#. Key:	574FA2FA402D11460AFF63B3A8B96460
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts3.Text
+#. Key:	B0E89EF047697FF74392629893F1FCC1
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts4.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextBonusPts4.Text
+msgid "1000"
+msgstr ""
+
+#. Key:	57C849AE442EC10B1DD967A440093AD5
+#. SourceLocation:	/Game/MainMenu/W_MainLevel.W_MainLevel_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainLevel.W_MainLevel_C:WidgetTree.TextTitle.Text
+msgid "Level"
+msgstr ""
+
+#. Key:	57CCF8584293F81F6677D7BBDDF51E6B
+#. SourceLocation:	/Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(0).DisplayNames
+#: /Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(0).DisplayNames
+msgid "BulletExplosion"
+msgstr ""
+
+#. Key:	5960988B4102F117FFB72383EAEFB09E
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerLives.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerLives.Label
+msgid "Start Lives"
+msgstr ""
+
+#. Key:	5CA697D642CA1FCD370C0682CE43A01D
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts4.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts4.Text
+msgid "x400"
+msgstr ""
+
+#. Key:	5E1F44AE4A0D91BA23BFB69D85468912
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.ButtonRefresh.Text
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.ButtonRefresh.Text
+msgid "Refresh"
+msgstr ""
+
+#. Key:	5EAF94FF42AF6E2D97AB3BA4573E98AB
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchEnemyRandomHP.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchEnemyRandomHP.Label
+msgid "Armored Tanks"
+msgstr ""
+
+#. Key:	635AA29B49EC1AEDDCC5CE9C78E5966C
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.ButtonРщые.Text
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.ButtonРщые.Text
+msgid "Host Game"
+msgstr ""
+
+#. Key:	63B99EA145CEE6A756BB2BB5BBA0A0CC
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ReduxLabel.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ReduxLabel.Text
+msgid "Redux"
+msgstr ""
+
+#. Key:	6534D6EF4463DD0E54BC35AD7077CCD1
+#. SourceLocation:	/Game/LevelGame/W_NewRecordSalut.W_NewRecordSalut_C:WidgetTree.TextBlock_23.Text
+#. Key:	9011E9F34D36028DB67AF4BAA887DBDD
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextHiScoreLabel.Text
+#: /Game/LevelGame/W_NewRecordSalut.W_NewRecordSalut_C:WidgetTree.TextBlock_23.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextHiScoreLabel.Text
+msgid "Hi-Score"
+msgstr ""
+
+#. Key:	6B4770BA4A331F22E26036B9F2E6CDF1
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonOffline.Text
+#. Key:	77E8D6814A2E7BDA03B5BBBE63672A38
+#. SourceLocation:	/Game/Common/E_GameState.E_GameState.DisplayNames(1).DisplayNames
+#. Key:	AAE86878472AE3CCB9A424A55A782645
+#. SourceLocation:	/Game/WaitingRoom/W_WaitingRoom.W_WaitingRoom_C:WidgetTree.ButtonPlay.Text
+#: /Game/Common/E_GameState.E_GameState.DisplayNames(1).DisplayNames
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonOffline.Text
+#: /Game/WaitingRoom/W_WaitingRoom.W_WaitingRoom_C:WidgetTree.ButtonPlay.Text
+msgid "Play"
+msgstr "Play IT"
+
+#. Key:	6BF49516485F9F700ED30BB64106350B
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.TextTitle.Text
+#. Key:	7788FD1F49BE6B45205D609F2283F874
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonSave.Text
+#. Key:	796C54814CE94149893EC78A80C9337B
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.ButtonSave.Text
+#. Key:	ECDDD78B435CB529E37F8AB0ED14CC39
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.ButtonSave.Text
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.ButtonSave.Text
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.ButtonSave.Text
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.ButtonSave.Text
+msgid "Save"
+msgstr ""
+
+#. Key:	6C4FA36C444FF416A93215AC6F99C053
+#. SourceLocation:	/Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+#. Key:	E1F4378F42D3D2F6D2ADB592FAB9C08B
+#: /Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+msgid " / {0}"
+msgstr ""
+
+#. Key:	7081CABC47BDD4E5B3D24E86617CBF98
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchEnemyBonuses.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchEnemyBonuses.Label
+msgid "Can Take Bonuses"
+msgstr ""
+
+#. Key:	714231D24267B0D8BEAC4E8DF15C3E63
+#. SourceLocation:	/Game/LevelGame/W_NewRecordSalut.W_NewRecordSalut_C:WidgetTree.TextHighScore.Text
+#. Key:	AB994EF64EDAAF063C8B799B5BCD52D0
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextHiScore.Text
+#: /Game/LevelGame/W_NewRecordSalut.W_NewRecordSalut_C:WidgetTree.TextHighScore.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextHiScore.Text
+msgid "99,900"
+msgstr ""
+
+#. Key:	745B76D647EDEA8C3DC4F9BC787059A9
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:ExecuteUbergraph_W_MainMode [Script Bytecode]
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:ExecuteUbergraph_W_MainMode [Script Bytecode]
+msgid "Destroy"
+msgstr ""
+
+#. Key:	747A932244E1AFB83B30D4BD20561A83
+#. SourceLocation:	/Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(4).DisplayNames
+#: /Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(4).DisplayNames
+msgid "TankCollision"
+msgstr ""
+
+#. Key:	752B484F40190DA6DD6E09985A935A2F
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady3.SubmitKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady3.SubmitKey
+msgid "t"
+msgstr ""
+
+#. Key:	75AFD1FA4B6AC9D1905572B678F4B7F5
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.TextTitle.Text
+#. Key:	D86955DA44A94303F2CAA58225550AC2
+#. SourceLocation:	/Game/Common/E_GameState.E_GameState.DisplayNames(4).DisplayNames
+#. Key:	EC4AC4F7445C9C45D93FA1BED6764EA8
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonEditor.Text
+#: /Game/Common/E_GameState.E_GameState.DisplayNames(4).DisplayNames
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonEditor.Text
+msgid "Editor"
+msgstr ""
+
+#. Key:	7651064B47D5155871F8579D45C515AC
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+msgid "open {ip}"
+msgstr ""
+
+#. Key:	798E5DE640508CF422BA9EA8C669B328
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:ExecuteUbergraph_W_MainOnline [Script Bytecode]
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:ExecuteUbergraph_W_MainOnline [Script Bytecode]
+msgid "Internet"
+msgstr ""
+
+#. Key:	7B8C19934AA26CD4139EAB8BE7BFF01C
+#. SourceLocation:	/Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:WidgetTree.TextLabel.Text
+#: /Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:WidgetTree.TextLabel.Text
+msgid ":"
+msgstr ""
+
+#. Key:	8157FE364A26558B03BE76A0DE58DB14
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady2.SubmitKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady2.SubmitKey
+msgid "w"
+msgstr ""
+
+#. Key:	82B7F2A44255FE6E27F5EEB90034EFB0
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonOnline.Text
+#. Key:	EA851F3F45053AA321C253A06F091F35
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.TitleText.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.ButtonOnline.Text
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.TitleText.Text
+msgid "Online"
+msgstr ""
+
+#. Key:	844C8512428865AA9649189E27CE6877
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+msgid "Pack Name:"
+msgstr ""
+
+#. Key:	8476208847C07104BE335D97A1A2FC61
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#. Key:	DE9815FF442CBF0EA26BFCB0F538008A
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+msgid "Write Error"
+msgstr ""
+
+#. Key:	84EFFABF4B4BD70B915296B44D65A27B
+#. SourceLocation:	/Game/LevelGame/W_GameOver.W_GameOver_C:WidgetTree.TextGameOver.Text
+#. Key:	B4EDAD9B4FE6CB1C759DB1A0064B6C7B
+#. SourceLocation:	/Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.TextGameOver.Text
+#: /Game/LevelGame/W_GameOver.W_GameOver_C:WidgetTree.TextGameOver.Text
+#: /Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.TextGameOver.Text
+msgid "Game\r\nOver"
+msgstr ""
+
+#. Key:	8634DB11489A42CE24F761844D57C704
+#. SourceLocation:	/Game/LevelGame/W_PlayerInfoHUD.W_PlayerInfoHUD_C:GetPlayerLivesText [Script Bytecode]
+#. Key:	C26E91884507B0370047239B80C54C9F
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:ExecuteUbergraph_W_MainDifficulty [Script Bytecode]
+#: /Game/LevelGame/W_PlayerInfoHUD.W_PlayerInfoHUD_C:GetPlayerLivesText [Script Bytecode]
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:ExecuteUbergraph_W_MainDifficulty [Script Bytecode]
+msgid "ȸ"
+msgstr ""
+
+#. Key:	87BBC38D4A86BA2FF845738A162065CC
+#. SourceLocation:	/Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+#: /Game/MainMenu/W_PlayerReady.W_PlayerReady_C:ExecuteUbergraph_W_PlayerReady [Script Bytecode]
+msgid "to cancel"
+msgstr ""
+
+#. Key:	88ACB8A047D8CF635E28C69F4C965D42
+#. SourceLocation:	/Game/LevelGame/W_Pause.W_Pause_C:WidgetTree.TextBlock_60.Text
+#: /Game/LevelGame/W_Pause.W_Pause_C:WidgetTree.TextBlock_60.Text
+msgid "Pause"
+msgstr ""
+
+#. Key:	89A1C52343A744D4E1E252B11EB57E13
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.ButtonCreatePack.Text
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:WidgetTree.ButtonCreatePack.Text
+msgid "New Pack"
+msgstr ""
+
+#. Key:	8CEBA3AA4B74E9F046069DA63FBD1D6E
+#. SourceLocation:	/Game/LevelGame/E_GameMode.E_GameMode.DisplayNames(0).DisplayNames
+#. Key:	B5374F5241243FE8990B78AF9BA1CCDE
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:GetGameModeText [Script Bytecode]
+#: /Game/LevelGame/E_GameMode.E_GameMode.DisplayNames(0).DisplayNames
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:GetGameModeText [Script Bytecode]
+msgid "Classic"
+msgstr ""
+
+#. Key:	8D63A6F8481639CFCABEAAAE3422405B
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.TextSearching.Text
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:WidgetTree.TextSearching.Text
+msgid "Searching..."
+msgstr ""
+
+#. Key:	8DE31D684E890C286BC13E8A713A1ED4
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady4.SubmitKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady4.SubmitKey
+msgid "i"
+msgstr ""
+
+#. Key:	911579A4441E1ACFF1D43CB9B16D8F5C
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:WidgetTree.TextTitle.Text
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:WidgetTree.TextTitle.Text
+msgid "Game Settings"
+msgstr ""
+
+#. Key:	9224F742430D725C196E31B02D9338A2
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+msgid "Delete Level?"
+msgstr ""
+
+#. Key:	9311CE2849763B0D1515FB809A59ABA1
+#. SourceLocation:	/Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(1).DisplayNames
+#: /Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(1).DisplayNames
+msgid "BulletHit"
+msgstr ""
+
+#. Key:	93D1C09743A8AE231332E28E446B93B8
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.Default__W_MainJoin_C.LastNetworkError
+#. Key:	EB3A893D43E528B54FAF1AA786EAA236
+#. SourceLocation:	/Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+#: /Game/MainMenu/W_MainJoin.Default__W_MainJoin_C.LastNetworkError
+#: /Game/MainMenu/W_MainJoin.W_MainJoin_C:ExecuteUbergraph_W_MainJoin [Script Bytecode]
+msgid "Network Failure"
+msgstr ""
+
+#. Key:	9465A37C4DEA9B3D263827950F113CF4
+#. SourceLocation:	/Game/LevelGame/Tanks/E_TankMovementType.E_TankMovementType.DisplayNames(0).DisplayNames
+#: /Game/LevelGame/Tanks/E_TankMovementType.E_TankMovementType.DisplayNames(0).DisplayNames
+msgid "Running"
+msgstr ""
+
+#. Key:	9672C932475DD1D57924E994E2AB6B4D
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts1.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts1.Text
+msgid "x100"
+msgstr ""
+
+#. Key:	99CB4C784777CF8A06DB2DAAAEC5F37A
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.TextPlayer.Text
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.TextPlayer.Text
+msgid "Player"
+msgstr ""
+
+#. Key:	9B9977AE49E0014947AA749FAECE3A0D
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.CityLabel.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.CityLabel.Text
+msgid "City"
+msgstr ""
+
+#. Key:	9C8A702F4CF5DCE05B172BB0425D3939
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.SubmitKey
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.SubmitKey
+msgid "up"
+msgstr ""
+
+#. Key:	9DFCBD774D89D20CE040C5A4E94AD010
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:ExecuteUbergraph_W_DeleteLevel [Script Bytecode]
+msgid "Delete Pack?"
+msgstr ""
+
+#. Key:	9F20C5BF49EEF733BB2CDDA363311576
+#. SourceLocation:	/Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts3.Text
+#: /Game/LevelGame/W_PlayerStat.W_PlayerStat_C:WidgetTree.TextEnemyPts3.Text
+msgid "x300"
+msgstr ""
+
+#. Key:	A258D91C4DEAED0BA15CAFB257280D11
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextReady.Text
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextReady.Text
+msgid "Ready"
+msgstr ""
+
+#. Key:	A6045C1A4307B454579510A2AAEE6EA4
+#. SourceLocation:	/Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#. Key:	D2F8880B44B0E715E2EF468AD5C2A4B5
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+#: /Game/LevelEditor/W_SaveLevel.W_SaveLevel_C:ExecuteUbergraph_W_SaveLevel [Script Bytecode]
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+msgid "Saved"
+msgstr ""
+
+#. Key:	A98D9B314A789042348514B0E1FEB952
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerRockets.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerRockets.Label
+msgid "Start Rockets"
+msgstr ""
+
+#. Key:	AD23C4544E8F3821C391658BFABEC344
+#. SourceLocation:	/Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.ButtonDeletePack.Text
+#: /Game/LevelEditor/W_DeleteLevel.W_DeleteLevel_C:WidgetTree.ButtonDeletePack.Text
+msgid "Delete Pack"
+msgstr ""
+
+#. Key:	AD6FA6D942DBEE935E08869A223AA4CF
+#. SourceLocation:	/Game/Common/Functions.Functions_C:FormatTime [Script Bytecode]
+#: /Game/Common/Functions.Functions_C:FormatTime [Script Bytecode]
+msgid "{m}:{ss}"
+msgstr ""
+
+#. Key:	B3F33BD545E2C8655A9050840203FB21
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:ExecuteUbergraph_W_MainMode [Script Bytecode]
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:ExecuteUbergraph_W_MainMode [Script Bytecode]
+msgid "Time"
+msgstr ""
+
+#. Key:	B5FAE0024F4DA7868EE07796CCB84291
+#. SourceLocation:	/Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:WidgetTree.TextLeftArrow.Text
+#: /Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:WidgetTree.TextLeftArrow.Text
+msgid "<"
+msgstr ""
+
+#. Key:	B6E2E53748634872CDE77D84B272182E
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchVolume.Label
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchVolume.Label
+msgid "Volume"
+msgstr ""
+
+#. Key:	B97FD6154F5A9968E28BAFAE2B3D09C6
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextPress.Text
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextPress.Text
+msgid "Press"
+msgstr ""
+
+#. Key:	BA656B364428A5ED19EAB38DB64E3B2F
+#. SourceLocation:	/Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(2).DisplayNames
+#: /Game/LevelGame/Tanks/TankForceType.TankForceType.DisplayNames(2).DisplayNames
+msgid "BulletAbsorbed"
+msgstr ""
+
+#. Key:	BA7D5C6D45153722E5AA0D8651DDE7A8
+#. SourceLocation:	/Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:ExecuteUbergraph_W_LoadLevel [Script Bytecode]
+#: /Game/LevelEditor/W_LoadLevel.W_LoadLevel_C:ExecuteUbergraph_W_LoadLevel [Script Bytecode]
+msgid "Loaded"
+msgstr ""
+
+#. Key:	BE98622048C930DBF72909B588D45E77
+#. SourceLocation:	/Game/Common/W_PopupWindow.W_PopupWindow_C:WidgetTree.MessageText.Text
+#. Key:	F5BC6CCB42813A1996C69D841F2A7CCF
+#. SourceLocation:	/Game/Common/W_PopupWindow.Default__W_PopupWindow_C.Message
+#: /Game/Common/W_PopupWindow.Default__W_PopupWindow_C.Message
+#: /Game/Common/W_PopupWindow.W_PopupWindow_C:WidgetTree.MessageText.Text
+msgid "Message"
+msgstr ""
+
+#. Key:	BED68DAA444D58097E50198A5486B606
+#. SourceLocation:	/Game/Common/E_GameState.E_GameState.DisplayNames(0).DisplayNames
+#: /Game/Common/E_GameState.E_GameState.DisplayNames(0).DisplayNames
+msgid "Menu"
+msgstr ""
+
+#. Key:	BF8248534A819C54CE574D82368BF8D2
+#. SourceLocation:	/Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextButton.Text
+#: /Game/MainMenu/W_MainPlayers.W_MainPlayers_C:WidgetTree.PlayerReady1.WidgetTree.TextButton.Text
+msgid " / []"
+msgstr ""
+
+#. Key:	C0E76D60485067DF3195E1942AEB98CA
+#. SourceLocation:	/Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(1).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#. Key:	CA34E8584EAAB0DDB914859A5DF7BA76
+#. SourceLocation:	/Game/MainMenu/MainMenuLevel.MainMenuLevel:PersistentLevel.A_LevelManager_178.Difficulty.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/Common/TheGameInstance.Default__TheGameInstance_C.DifficultyPresets(1).DifficultyPresets.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+#: /Game/MainMenu/MainMenuLevel.MainMenuLevel:PersistentLevel.A_LevelManager_178.Difficulty.Title_44_7A595EF94D82F5F6B10A439389CBECE8
+msgid "Normal"
+msgstr ""
+
+#. Key:	C4D49642448D6481946610A8BC8B3B33
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchBonusEachHit.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchBonusEachHit.Label
+msgid "Bonus Each Hit"
+msgstr ""
+
+#. Key:	CC4FB843430EFF3E383BB3AE24DE3DF5
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:ExecuteUbergraph_W_MainOptions [Script Bytecode]
+msgid "{0} x {1}"
+msgstr ""
+
+#. Key:	CC9D7E1A44E756C3D9DFFBB62E5C6008
+#. SourceLocation:	/Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.ButtonContinue.Text
+#: /Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.ButtonContinue.Text
+msgid "Continue"
+msgstr ""
+
+#. Key:	D18606004B5384390170A48F8A045F44
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:PreviewLevel [Script Bytecode]
+#. Key:	DAA8A6444F7F88F50DC7618C445F87ED
+#. SourceLocation:	/Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.SwitchWidth.Text
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:PreviewLevel [Script Bytecode]
+#: /Game/LevelEditor/W_NewLevel.W_NewLevel_C:WidgetTree.SwitchWidth.Text
+msgid "Width: {0}"
+msgstr ""
+
+#. Key:	D1D6D1314DB4324EC8A4168B2C38C801
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchFullscreen.Label
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchFullscreen.Label
+msgid "Fullscreen"
+msgstr ""
+
+#. Key:	D6ED1FD04F9AA0E4CD33FAB63832511F
+#. SourceLocation:	/Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:ExecuteUbergraph_W_EditorMenu [Script Bytecode]
+#: /Game/LevelEditor/W_EditorMenu.W_EditorMenu_C:ExecuteUbergraph_W_EditorMenu [Script Bytecode]
+msgid "No User Levels"
+msgstr ""
+
+#. Key:	D7CB3EE14F39A06BCFC28890B5B31E4A
+#. SourceLocation:	/Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:GetMenuText [Script Bytecode]
+#: /Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:GetMenuText [Script Bytecode]
+msgid "{0}"
+msgstr ""
+
+#. Key:	DA3C5F2246C6335243FBF2AF22CAF592
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.BattleLabel.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.BattleLabel.Text
+msgid "Battle"
+msgstr ""
+
+#. Key:	E072399B4092438F333E2FA0E265CC78
+#. SourceLocation:	/Game/Common/E_GameState.E_GameState.DisplayNames(3).DisplayNames
+#: /Game/Common/E_GameState.E_GameState.DisplayNames(3).DisplayNames
+msgid "Lose"
+msgstr ""
+
+#. Key:	E91DDE0443DF6993F907D181048A1690
+#. SourceLocation:	/Game/MainMenu/W_MainMode.W_MainMode_C:WidgetTree.SwitchGameMode.Label
+#: /Game/MainMenu/W_MainMode.W_MainMode_C:WidgetTree.SwitchGameMode.Label
+msgid "Game Mode"
+msgstr ""
+
+#. Key:	ED71B6004AECDD459EB454B4910490FD
+#. SourceLocation:	/Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.ButtonRestart.Text
+#: /Game/LevelGame/W_GameOverSalut.W_GameOverSalut_C:WidgetTree.ButtonRestart.Text
+msgid "Restart"
+msgstr ""
+
+#. Key:	EE4BBFA940193D1CC06D8884C534553E
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerTankLevel.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchPlayerTankLevel.Label
+msgid "Start Tank Level"
+msgstr ""
+
+#. Key:	EE85FB9743B2F414FEF4B69AD33D3B43
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchSharedPlayerLives.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchSharedPlayerLives.Label
+msgid "Shared Lives"
+msgstr ""
+
+#. Key:	F2EB26C44C360D008112E7980D68539C
+#. SourceLocation:	/Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:SetLabel [Script Bytecode]
+#: /Game/Common/W_LabeledMenuSwitch.W_LabeledMenuSwitch_C:SetLabel [Script Bytecode]
+msgid "{0}:"
+msgstr ""
+
+#. Key:	F46DDBB74AEAA7A9A04957B81D27E9F5
+#. SourceLocation:	/Game/MainMenu/W_MainSessionRow.W_MainSessionRow_C:ExecuteUbergraph_W_MainSessionRow [Script Bytecode]
+#: /Game/MainMenu/W_MainSessionRow.W_MainSessionRow_C:ExecuteUbergraph_W_MainSessionRow [Script Bytecode]
+msgid "{0}-{1} {2}/{3} {4} ms"
+msgstr ""
+
+#. Key:	F5F8FD6F4E05966529652C99E5106507
+#. SourceLocation:	/Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.VersionText.Text
+#: /Game/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.VersionText.Text
+msgid "9.9.9"
+msgstr ""
+
+#. Key:	FC8310D040AEAE0C32231D8BA69F82B6
+#. SourceLocation:	/Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchVsync.Label
+#: /Game/MainMenu/W_MainOptions.W_MainOptions_C:WidgetTree.SwitchVsync.Label
+msgid "VSync"
+msgstr ""
+
+#. Key:	FD69DBAC43DB3A02A63936896D674EA4
+#. SourceLocation:	/Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchEnemyShield.Label
+#: /Game/MainMenu/W_MainDifficulty.W_MainDifficulty_C:WidgetTree.SwitchEnemyShield.Label
+msgid "Start Shield"
+msgstr ""
+
+#. Key:	FFCEB8064C6FF8A16A42639A450ECCF5
+#. SourceLocation:	/Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.SwitchMode.Label
+#: /Game/MainMenu/W_MainOnline.W_MainOnline_C:WidgetTree.SwitchMode.Label
+msgid "Mode"
+msgstr ""
+
+#. Key:	Constants
+#. SourceLocation:	/Game/Common/M_Floor.M_Floor:MaterialExpressionConstant4Vector_1.MenuCategories(0).MenuCategories
+#: /Game/Common/M_Floor.M_Floor:MaterialExpressionConstant4Vector_1.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Constants"
+msgstr ""
+
+#. Key:	Coordinates
+#. SourceLocation:	/Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionTextureCoordinate_7.MenuCategories(0).MenuCategories
+#: /Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionTextureCoordinate_7.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Coordinates"
+msgstr ""
+
+#. Key:	Font
+#. SourceLocation:	/Game/Common/UI/M_BattleCity7x7_Translucent.M_BattleCity7x7_Translucent:MaterialExpressionFontSampleParameter_0.MenuCategories(0).MenuCategories
+#: /Game/Common/UI/M_BattleCity7x7_Translucent.M_BattleCity7x7_Translucent:MaterialExpressionFontSampleParameter_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Font"
+msgstr ""
+
+#. Key:	Functions
+#. SourceLocation:	/Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionStaticBool_0.MenuCategories(0).MenuCategories
+#: /Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionStaticBool_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Functions"
+msgstr ""
+
+#. Key:	Math
+#. SourceLocation:	/Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionLinearInterpolate_0.MenuCategories(0).MenuCategories
+#: /Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionLinearInterpolate_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Math"
+msgstr ""
+
+#. Key:	Parameters
+#. SourceLocation:	/Game/Common/M_Floor.M_Floor:MaterialExpressionScalarParameter_2.MenuCategories(0).MenuCategories
+#: /Game/Common/M_Floor.M_Floor:MaterialExpressionScalarParameter_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Parameters"
+msgstr ""
+
+#. Key:	Texture
+#. SourceLocation:	/Game/Common/Models/M_BaseDead.M_BaseDead:MaterialExpressionTextureSample_1.MenuCategories(0).MenuCategories
+#: /Game/Common/Models/M_BaseDead.M_BaseDead:MaterialExpressionTextureSample_1.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Texture"
+msgstr ""
+
+#. Key:	Utility
+#. SourceLocation:	/Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionLinearInterpolate_0.MenuCategories(1).MenuCategories
+#: /Game/Common/M_FloorGrid.M_FloorGrid:MaterialExpressionLinearInterpolate_0.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Utility"
+msgstr ""
+
+#. Key:	Vectors
+#. SourceLocation:	/Game/Common/M_Floor.M_Floor:MaterialExpressionConstant4Vector_1.MenuCategories(1).MenuCategories
+#: /Game/Common/M_Floor.M_Floor:MaterialExpressionConstant4Vector_1.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Vectors"
+msgstr ""
+
+#. Key:	DefaultText
+#. SourceLocation:	/Game/LevelGame/Effects/A_ScorePoints.A_ScorePoints_C:TextRender_GEN_VARIABLE.Text
+#: /Game/LevelGame/Effects/A_ScorePoints.A_ScorePoints_C:TextRender_GEN_VARIABLE.Text
+msgctxt "TextRenderComponent"
+msgid "Text"
+msgstr ""
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/Game/WaitingRoom/W_WaitingRoom.W_WaitingRoom_C:WidgetTree.TextBlock_34.Text
+#: /Game/WaitingRoom/W_WaitingRoom.W_WaitingRoom_C:WidgetTree.TextBlock_34.Text
+msgctxt "UMG"
+msgid "Text Block"
+msgstr ""
+
