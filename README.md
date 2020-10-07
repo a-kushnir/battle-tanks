@@ -98,7 +98,7 @@ Open the project in Unreal Engine, compile and run.
 <img src="https://user-images.githubusercontent.com/1454297/95297896-6a53ce00-0838-11eb-85b0-e7f4a2693991.png" align="left" alt="David's Photo" title="David's Photo" height="70" />
 
 **David Birukovich**<br>
-Music, QA and Level Design<br>
+[Music](https://soundcloud.com/david-birukovich/battle-tanks-greenlight-trailer-sound/s-6AljU3CWEy3 "Click to play on SoundCloud"), QA and Level Design<br>
 <br>
 
 # License
