@@ -17,6 +17,7 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses the capabil
 # Table of contents
 
 - [Features](#features)
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [License](#license)
 - [Links](#links)
@@ -35,6 +36,22 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses the capabil
 - 2D / 3D mode
 - Map editor
 
+# Requirements
+
+[(Back to top)](#table-of-contents)
+
+## Players
+
+* Windows
+* Visual C++ Redistributable for Visual Studio 2015, [download](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
+## Developers
+
+* Windows
+* Unreal Engine v4.14, [download](https://www.unrealengine.com/en-US/download)
+* Visual Studio 2015, [download](https://visualstudio.microsoft.com/vs/older-downloads/)
+* Git
+
 # Installation
 
 [(Back to top)](#table-of-contents)
@@ -42,6 +59,17 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses the capabil
 ## Players
 
 Download the latest [release](https://github.com/a-kushnir/battle-tanks/releases), unzip the file and enjoy the game.
+
+## Developers
+
+Install Unreal Engine v4.14 and Visual Studio 2015 with C++ support.
+
+```
+# Clone this repository
+$ git clone https://github.com/a-kushnir/battle-tanks.git
+```
+
+Open the project in Unreal Engine, compile and run.
 
 # License
 
