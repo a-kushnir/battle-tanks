@@ -20,6 +20,7 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses features of
 - [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Contributors](#contributors)
 - [License](#license)
 - [Links](#links)
 
@@ -88,6 +89,16 @@ $ git clone https://github.com/a-kushnir/battle-tanks.git
 ```
 
 Open the project in Unreal Engine, compile and run.
+
+# Contributors
+
+[(Back to top)](#table-of-contents)
+
+<img src="https://user-images.githubusercontent.com/1454297/95297896-6a53ce00-0838-11eb-85b0-e7f4a2693991.png" align="left" alt="David's Photo" title="David's Photo" height="70" />
+
+**David Birukovich**<br>
+Music, QA and Level Design<br>
+<br>
 
 # License
 
