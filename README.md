@@ -17,6 +17,7 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses the capabil
 # Table of contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [License](#license)
@@ -35,6 +36,23 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses the capabil
 - 5 levels of tanks
 - 2D / 3D mode
 - Map editor
+
+# Screenshots
+
+[(Back to top)](#table-of-contents)
+
+## Gameplay example
+
+![Gameplay](https://user-images.githubusercontent.com/1454297/95295499-70e04680-0834-11eb-942d-e41d41a3326f.png)
+
+## Game settings
+
+![Settings](https://user-images.githubusercontent.com/1454297/95295509-76d62780-0834-11eb-81ed-ec64af3b1977.png)
+![Settings](https://user-images.githubusercontent.com/1454297/95295517-79388180-0834-11eb-9c81-a070040719b4.png)
+
+## Player Statistics
+
+![Statistics](https://user-images.githubusercontent.com/1454297/95295518-7a69ae80-0834-11eb-879c-47bbed84b1be.png)
 
 # Requirements
 
