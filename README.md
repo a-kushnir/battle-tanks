@@ -37,6 +37,7 @@ Battle Tanks retains the gameplay of the classic 8-bit game and uses features of
 - 5 levels of tanks
 - 2D / 3D mode
 - Map editor
+- Languages: English, Spanish, Russian, German, Italian, French
 
 # Screenshots
 
